@@ -6,5 +6,5 @@ btn.addEventListener("click",function(){
 	heading.id="status";
 	heading.textContent= "Entered Metaverse";
 	stat.parentNode.replaceChild(heading,stat);
-	stat = heading;
+	
 })
